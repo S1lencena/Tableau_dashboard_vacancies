@@ -1,6 +1,7 @@
 ## **Всем привет! :)**
 
 Дан датасет с вакансиями аналитиков, которые нашлись по какому-то ключевому запросу на сайте hh. 
+
 Одна и та же вакансия может быть найдена по нескольким запросам. 
 
 ### Описание полей:
@@ -24,5 +25,5 @@
 * **salary_gross_flag** — 0 — вилка указана net, 1 — вилка указана gross.
 * **salary_to** — максимальное значение зарплаты в вилке
 
-Для визуализации данных разработан дашборд, который доступен по ссылке https://public.tableau.com/app/profile/lukashenkova.elena/viz/KarpovDashboardPracticeLesson_2Part_2/sheet5
+Для визуализации данных разработан дашборд, который доступен по ссылке: https://public.tableau.com/app/profile/lukashenkova.elena/viz/KarpovDashboardPracticeLesson_2Part_2/sheet5
 ![image](https://github.com/S1lencena/Tableau_dashboard_vacancies/assets/140109674/eb1571fb-bf20-4dc9-a3d6-21ae11a3d965)
